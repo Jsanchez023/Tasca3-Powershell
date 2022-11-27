@@ -1,0 +1,22 @@
+Ex1 - Munta un fitxer iso i copia algun fitxer d'aquesta iso a una ruta de destí que s'ha de demanar durant l'execució.
+
+El Script demana la ruta absoluta de la iso a muntar, l'arxiu de la iso a copiar i la ubicació de destí.
+Després munta la iso amb la informació donada
+I finalment, copia l'arxiu de la iso a la ruta especificada tenint en compte que es muntarà a la lletra E.
+
+
+
+Ex2 - Comprova amb un script que la connexió TCP és correcta. Mostra un missatge emergent indicant que funciona correctament
+
+El Scirpt emmagatzema en una variable el resultat entre un test de connexió a google.
+Si el resultat és "True", és a dir, que hi ha connectivitat genera un missatge emergent informant a l'usuari.
+Si no es completa la connexió genera un missatge emergent informant al usuari.
+
+
+
+Ex3 - Crea un script que permeti filtrar per tipus de ports oberts (TCP, UDP o tots dos al mateix temps)
+
+El script genera un menú senzill on seleccionar una de les tres opcions.
+La primera opció genera una llista dels ports TCP a l'escolta o ja establerts.
+La segona mostra els ports UDP oberts i el procés que estan realitzant.
+L'última combina les dues imprimint per pantalla per separat ambdues comandes.
